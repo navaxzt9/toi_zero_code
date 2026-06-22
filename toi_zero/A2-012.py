@@ -1,0 +1,2 @@
+a, b, c = map(int, input().split())
+print(a*10 + b*25 + c*3)
